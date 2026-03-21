@@ -1,4 +1,4 @@
-# setembru.me
+# README
 
 O presente repositório contém meu site pessoal.
 
