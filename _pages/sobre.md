@@ -37,3 +37,6 @@ Gosto de dramas e descobrir bons novos filmes. Meu [Letterboxd](https://letterbo
 
 Faço origamis e me interesso por colagem.
 
+Visito cafeterias, museus, teatros, exposições e frequento Sescs. Sozinha ou acompanhada de alguém especial.
+
+Brinco com panificação e confeitaria.
