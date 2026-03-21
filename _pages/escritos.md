@@ -2,7 +2,7 @@
 title: Escritos
 permalink: /escritos
 ---
-<h1>Meus textos</h1>
+<h1>Escritos</h1>
 
 <ul>
   {% for post in site.posts %}
