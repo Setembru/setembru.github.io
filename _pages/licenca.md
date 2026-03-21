@@ -1,6 +1,6 @@
 ---
 title: Licença
-permalink: /setembru-aya/licenca
+permalink: /licenca
 ---
 
 # Site
