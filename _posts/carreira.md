@@ -1,7 +1,7 @@
 ---
 title:  "carreira"
-date:   2024-02-04
 layout: post
+date:   2024-02-04
 ---
 se caso durante a construção
 da revolução socialista

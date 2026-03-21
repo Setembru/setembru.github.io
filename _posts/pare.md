@@ -1,7 +1,7 @@
 ---
 title: "pare"
-date: 2022-07-01
 layout: post
+date: 2022-07-01
 ---
 pare,
 porque aqui é tudo barulhento
