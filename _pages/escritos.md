@@ -12,3 +12,4 @@ permalink: /escritos
     </li>
   {% endfor %}
 </ul>
+
