@@ -1,0 +1,15 @@
+---
+title:  "carreira"
+date:   2024-02-04
+layout: post
+---
+se caso durante a construção
+da revolução socialista
+me sobrar apenas a Carreira
+é melhor que seja
+de codeína ou cocaína
+
+porque nada nesse mundo
+é mais miserável
+que nossas estrutura
+e burocracia partidária
