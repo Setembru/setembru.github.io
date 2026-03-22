@@ -11,4 +11,6 @@ O [código-fonte](https://github.com/Setembru/setembru-aya) do site é [software
 
 ## [Creative Commons (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
+© 2026 Aya Setembru Nobre Kuwahara.
+
 O conteúdo (textos, poemas, imagens etc.), salvo a indicação em contrário, contém alguns [direitos reservados](/CONTENT_LICENSE). Você pode copiar, compartilhar, redistribuir e adaptar **contanto que** me dê os devidos créditos e autoria.

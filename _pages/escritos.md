@@ -13,3 +13,4 @@ permalink: /escritos
   {% endfor %}
 </ul>
 
+© 2026 Aya Setembru Nobre Kuwahara. Conteúdo licenciado sob Creative Commons Atribuição 4.0 (CC BY 4.0).
