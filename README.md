@@ -11,3 +11,4 @@ Esse site é [software livre](/LICENSE): você pode redistribuí-lo e/ou modific
 - preciso adicionar conteúdo para as páginas ```Sobre``` e ```Home```;
 - preciso adicionar a licença CC-BY 4.0 para meus textos e poemas, assim como especificar isso na aba ```Licenças```;
 - layout.
+
