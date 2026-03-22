@@ -4,7 +4,9 @@ O presente repositório contém [meu site pessoal](https://setembru.github.io/),
 
 Esse site é [software livre](/LICENSE): você pode redistribuí-lo e/ou modificá-lo sob os termos da Licença Pública Geral GNU, conforme a publicada pela Free Software Foundation, seja a versão 3 da Licença, ou (a seu critério) qualquer versão posterior.
 
-## Mirrorlist dos repositórios: [GitHub](https://github.com/Setembru/setembru.github.io) e [GitLab](https://gitlab.com/Setembru/aya-setembru).
+## Mirrorlist dos repositórios:
+
+[GitHub](https://github.com/Setembru/setembru.github.io) e [GitLab](https://gitlab.com/Setembru/aya-setembru).
 
 ## To-do
 
